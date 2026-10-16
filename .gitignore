@@ -1,0 +1,10 @@
+# Bỏ qua thư mục chứa 1.000 ảnh gốc và các file zip nhãn thô khi đẩy lên GitHub
+clean/
+foreign_object/
+*.zip
+__pycache__/
+*.pyc
+.venv/
+venv/
+runs/
+.ipynb_checkpoints/
